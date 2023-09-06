@@ -39,9 +39,10 @@ nav ul {
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 .box:hover {
-  background-color: rgba(200, 248, 228, 0.253);
+  background-color: rgba(248, 223, 200, 0.418);
 }
 .imgBox img {
   width: 0;
